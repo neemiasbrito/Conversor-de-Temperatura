@@ -11,10 +11,10 @@ Nos Estados unidos a temperatura em geral é medida em uma escala denominada Fah
 
 ## DESCOMPLINANDO
 VARIÁVEIS 
-- C, F (double)
+C, F (double)
 ENTRADA
-- F
+F
 PROCESSAMENTO
-- C = (5 * (F - 32)) / 9
+C = (5 * (F - 32)) / 9
 SAIDA:
-- C
+C
